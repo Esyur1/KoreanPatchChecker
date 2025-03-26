@@ -1,0 +1,4 @@
+displayName = Korean Patch Checker
+author = Esyur
+version = 0.1
+icon = icon.png
